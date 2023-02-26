@@ -99,7 +99,7 @@ detail, seller detail, payment detail, geolocation detail and review
 detail. The entity-relationship model is shown in Figure 1 to help
 understand how the data interrelate with each other.
 [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-    </div>\
+    </div>
 
 
 
@@ -152,7 +152,8 @@ be pre-processed in order to obtain relevant analytics as it only has
 the tables and keys referring to each file of the dataset. At first we
 obtain the data model visible in the following image.
     </div>
-\
+
+
 ![2](https://user-images.githubusercontent.com/126220185/221439638-d6a8a3e3-02f6-4f0e-8bc9-344a21846486.png)
 
 
@@ -168,7 +169,8 @@ about transportation logistics, customers, sellers and their different
 products each with a different type. In the end, we can see the result
 on the following image.
     </div>
-\
+
+
 
 ![3](https://user-images.githubusercontent.com/126220185/221441944-c258dffe-c8d3-4511-8763-4d297ed9ad52.png)
 
