@@ -122,43 +122,6 @@ understand how the data interrelate with each other.
                                  
   ---------------------------------------------------------------------------
 
-
-# Storyline and choice of visualization
-
-As my manager is asking me to critically analyse the provided datasets
-using Business Intelligence tools and provide some marketing findings /
-recommendations in a report format. The dataset has information of 100k
-orders made at multiple marketplaces in Brazil. Its features allow
-viewing an order from multiple dimensions: from order status, price,
-payment and freight performance to customer location, product attributes
-and finally reviews written by customers. A geolocation dataset that
-relates Brazilian zip codes to lat/lng coordinates is also integrated in
-the dataset.
-
-After a customer purchases the product from Olist Store, a seller gets
-notified to fulfil that order. Once the customer receives the product,
-or the estimated delivery date is due, the customer gets a satisfaction
-survey by email where they can give a note for the purchase experience
-and write down some comments.
-
-Eventually, I decided to choose PowerBI Desktop as my tool for
-visualization, due to its simplicity and multiple visuals and
-formatting.
-
-## Objectives of data stories
-
-I.  How many customers, orders, and orders per customer does the company
-    have?
-
-II. What is the number of customers by state?
-
-III. What is the number of orders by month?
-
-IV. What are the top and bottom 5 product categories?
-
-V.  Visualize the company's customers' demographics, sales trend, orders
-    by categories, orders changes by year
-
 # Visualization Analytics
 
 ## Data model
@@ -187,25 +150,26 @@ on the following image.
 ![3](https://user-images.githubusercontent.com/126220185/221441944-c258dffe-c8d3-4511-8763-4d297ed9ad52.png)
 
 
-![Screenshot 2023-02-27 060849](https://user-images.githubusercontent.com/126220185/221441738-c9dd017d-6c87-4e0a-8989-0bd6afc81cfa.jpg)
+![Ahmed Hsahim- AA- Dashboard_page-0001](https://user-images.githubusercontent.com/126220185/221442502-e783c985-dc70-4222-966b-40eed984f45d.jpg)
 
 
-![4](https://user-images.githubusercontent.com/126220185/221440279-1fe80e15-8356-4d70-aa38-c849e8218412.png)
+![Ahmed Hsahim- AA- Dashboard_page-0002](https://user-images.githubusercontent.com/126220185/221442503-19e32d21-40a5-4428-b2bb-7e0c517f90cc.jpg)
 
 
-![5](https://user-images.githubusercontent.com/126220185/221440325-37fea219-b60a-43eb-8575-f2ee74ccf524.png)
+![Ahmed Hsahim- AA- Dashboard_page-0003](https://user-images.githubusercontent.com/126220185/221442504-67d7cedc-debb-423e-9e06-e5c71b0aee07.jpg)
 
 
-![6](https://user-images.githubusercontent.com/126220185/221440330-2658c99b-9669-4081-a623-75e1581b089c.png)
+![Ahmed Hsahim- AA- Dashboard_page-0004](https://user-images.githubusercontent.com/126220185/221442506-91171d8d-9d3c-4384-95cb-9bbb1674ce2d.jpg)
 
 
-![7](https://user-images.githubusercontent.com/126220185/221440336-8630de19-ac6a-4629-8e92-598a62c1de08.png)
+![Ahmed Hsahim- AA- Dashboard_page-0005](https://user-images.githubusercontent.com/126220185/221442494-391dd4bb-f863-43f1-a93d-9dea79774c8d.jpg)
 
 
-![8](https://user-images.githubusercontent.com/126220185/221440338-7601d572-f040-45bf-b065-88af58043571.png)
+![Ahmed Hsahim- AA- Dashboard_page-0006](https://user-images.githubusercontent.com/126220185/221442498-14cb0553-b86b-45a1-8815-10b72a7b98bb.jpg)
 
 
-![9](https://user-images.githubusercontent.com/126220185/221440340-1292f5b9-c1e3-477d-8509-02e2f5d3a9d1.png)
+![Ahmed Hsahim- AA- Dashboard_page-0007](https://user-images.githubusercontent.com/126220185/221442501-7b1653a9-0d14-4fe4-8bbc-6467e553e30e.jpg)
+
 
 # Insights
 
