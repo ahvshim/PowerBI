@@ -100,8 +100,8 @@ detail. The entity-relationship model is shown in Figure 1 to help
 understand how the data interrelate with each other.
 [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
     </div>
-\n
-
+  
+  
 ![fig 1](https://user-images.githubusercontent.com/126220185/221439446-fcbbe806-e0d4-46cd-a6f9-3d8b4b9c7df8.png)
 
 
@@ -151,8 +151,8 @@ be pre-processed in order to obtain relevant analytics as it only has
 the tables and keys referring to each file of the dataset. At first we
 obtain the data model visible in the following image.
     </div>
-\n
-
+ 
+ 
 ![2](https://user-images.githubusercontent.com/126220185/221439638-d6a8a3e3-02f6-4f0e-8bc9-344a21846486.png)
 
 
@@ -169,10 +169,10 @@ products each with a different type. In the end, we can see the result
 on the following image.
     </div>
 
-\n
-
+  
+  
 ![3](https://user-images.githubusercontent.com/126220185/221441944-c258dffe-c8d3-4511-8763-4d297ed9ad52.png)
-
+ 
 
 ## Dashboards
 
@@ -210,7 +210,7 @@ company's logistics and fulfillment processes, the reliability of its
 transportation partners, and any potential issues with the quality or
 accuracy of the orders being placed.
     </div>
-\n
+ 
 
 <div align="justify">
     Olist company has a high level of customer satisfaction overall, with a
@@ -225,7 +225,7 @@ suggests that this type of product may need improvement.
 -   Monitor and analyze customer reviews regularly to identify trends
     and areas for improvement. This could involve using data analysis
     tools to identify common themes in customer feedback and using this
-    information to make changes and improve the customer experience.\n
+    information to make changes and improve the customer experience.
 
 
 -   Investigate the causes of undelivered orders. This could involve
@@ -233,7 +233,7 @@ suggests that this type of product may need improvement.
     factors that may be contributing to the problem. For example, are
     certain regions or customer demographics more likely to have
     undelivered orders? Are there particular products or types of orders
-    that are more likely to be undelivered? \n
+    that are more likely to be undelivered? 
 
 
 -   Communicate with customers about the delivery process. Olist should
@@ -242,7 +242,7 @@ suggests that this type of product may need improvement.
     help to build trust and create a positive customer experience. It
     will also give customers the opportunity to provide feedback on
     their experiences with the delivery process, which can be used to
-    identify areas for improvement.\n
+    identify areas for improvement.
 
 
 -   Overall, the key is to continue providing high-quality products and
