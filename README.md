@@ -84,8 +84,7 @@ detail. The entity-relationship model is shown in Figure 1 to help
 understand how the data interrelate with each other.
 [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-![fig 1](https://user-images.githubusercontent.com/126220185/221439446-fcbbe806-e0d4-46cd-a6f9-3d8b4b9c7df8.png){width="5.224449912510936in"
-height="3.1392530621172354in"}
+![fig 1](https://user-images.githubusercontent.com/126220185/221439446-fcbbe806-e0d4-46cd-a6f9-3d8b4b9c7df8.png)
 
 Figure 1 Entitiy-relationship model diagram of Olist Dataset
 
