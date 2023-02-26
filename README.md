@@ -18,8 +18,8 @@ I am presented a dashboard that summarizes the overall satisfaction of the custo
 
 ### 1.4	Organizational structure (Stakeholder)
 <div align="justify">
-Olist organizational structure data is layered. The CEO leads the company and is sometimes the chairman or owner. He has the most invested in the company and makes significant decisions, including as analyzing and approving team budgets and assuring subordinates can do their jobs well. 
-Second is the marketing team; whose role is to market the company's products using cutting-edge technology to compete commercially. The financial team helps the company manage its accounts, income before interest, taxes, depreciation, debt, loans, and cash according to the budget. This group will also provide clients conditional vouchers to increase sales or any marketing budget required to get this project up and running.
+Olist organizational structure data is layered. The CEO leads the company and is sometimes the chairman or owner. He has the most invested in the company and makes significant decisions, including as analyzing and approving team budgets and assuring subordinates can do their jobs well.\
+Second is the marketing team; whose role is to market the company's products using cutting-edge technology to compete commercially. The financial team helps the company manage its accounts, income before interest, taxes, depreciation, debt, loans, and cash according to the budget. This group will also provide clients conditional vouchers to increase sales or any marketing budget required to get this project up and running.\
 Information technology (IT) team is responsible for overseeing every aspect of the company's system, including its hardware and software. This team supports all other teams inside the organization. The e-commerce team, which comes in at number seven, is crucial to the online sales process. Customers will be dealt with personally by these personnel, who will also guarantee their happiness with every transaction There is more department that exist in this company however for our issue and project, these are the most impacted and involved in the project.
 </div>
 
