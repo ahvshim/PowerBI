@@ -132,7 +132,7 @@ be pre-processed in order to obtain relevant analytics as it only has
 the tables and keys referring to each file of the dataset. At first we
 obtain the data model visible in the following image.
 
-![2](https://user-images.githubusercontent.com/126220185/221439638-d6a8a3e3-02f6-4f0e-8bc9-344a21846486.png){width="5.709027777777778in"
+![2](https://user-images.githubusercontent.com/126220185/221439638-d6a8a3e3-02f6-4f0e-8bc9-344a21846486.png)
 
 
 Thus, it needs to make links between tables depending on how they
@@ -148,6 +148,9 @@ on the following image.
 
 
 ![3](https://user-images.githubusercontent.com/126220185/221441944-c258dffe-c8d3-4511-8763-4d297ed9ad52.png)
+
+
+## Dashboards
 
 
 ![Ahmed Hsahim- AA- Dashboard_page-0001](https://user-images.githubusercontent.com/126220185/221442502-e783c985-dc70-4222-966b-40eed984f45d.jpg)
