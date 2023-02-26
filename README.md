@@ -1,6 +1,6 @@
 # Executive Summary
 <div align="justify">
--   **Data synopsis:** Brazilian E-commerce Public Dataset: Retail
+-   ** Data synopsis: ** Brazilian E-commerce Public Dataset: Retail
     datasets of 100k orders placed on Olist spanning between
     October'2016 and September'2018 across several states. Information
     is trickled with price, orders, order status, payment, freight and
