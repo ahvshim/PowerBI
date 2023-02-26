@@ -35,10 +35,10 @@ advertise those items which are popular amongst the customers.
 
 ## **Formulation of business problem**
 
-I am presented a dashboard that summarizes the overall satisfaction of
-the customer with the product which he or she had just purchased. As
-well as descriptive analysis and forecasting using Microsoft Power BI
-tool.
+In this project, with a use of Microsoft Power BI
+tool, a presented dashboards that summarizes the overall satisfaction of
+the customers with the products which he or she had just purchased. As
+well as descriptive, deliveries analysis and forecasting analysis.
 
 ## Organizational structure (Stakeholder)
 
