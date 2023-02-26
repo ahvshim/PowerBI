@@ -2,7 +2,7 @@
 <div align="justify">
 •	Data synopsis: Brazilian E-commerce Public Dataset: Retail datasets of 100k orders placed on Olist spanning between October’2016 and September’2018 across several states. Information is trickled with price, orders, order status, payment, freight and user review along with many other parameters.
 </div>
-## 1.1	Introduction
+## 1.1 Introduction
 <div align="justify">
   Businesses have always tried to keep their customers base engaged and satisfied with the services provided by them. For remaining relevant in the industry, they need to incorporate the latest technological advances into their services. More than a decade back, it was the internet which was completely new and various industries tried to leverage the capabilities of this technology that effortlessly acted as a medium of communication between various businesses and their customers. In this decade, industries have started to provide services that are catered towards each client’s individual needs. For such services, they are required to leverage the power of artificial intelligence.
 </div>
