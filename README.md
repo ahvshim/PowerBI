@@ -21,3 +21,19 @@ I am presented a dashboard that summarizes the overall satisfaction of the custo
 <div align="justify"> Second is the marketing team; whose role is to market the company's products using cutting-edge technology to compete commercially. The financial team helps the company manage its accounts, income before interest, taxes, depreciation, debt, loans, and cash according to the budget. This group will also provide clients conditional vouchers to increase sales or any marketing budget required to get this project up and running.</div>
 <div align="justify"> Information technology (IT) team is responsible for overseeing every aspect of the company's system, including its hardware and software. This team supports all other teams inside the organization. The e-commerce team, which comes in at number seven, is crucial to the online sales process. Customers will be dealt with personally by these personnel, who will also guarantee their happiness with every transaction There is more department that exist in this company however for our issue and project, these are the most impacted and involved in the project. </div>
 
+1.5	Dataset 
+<div align="justify">I am going to make use of the dataset that was so generously provided by Olist, which is the largest department store in Brazilian marketplaces. Olist eliminates administrative burdens and consolidates legal obligations by linking small enterprises located anywhere in Brazil to various distribution channels. These retailers are allowed to sell their wares through the Olist Store and have Olist's logistics partners transport the products straight to the buyers after the sale has been completed.</div>
+<div align="justify">The data consist of almost 100 000 customer id and order id. To summarize, the data consist of order detail, customer detail, product detail, seller detail, payment detail, geolocation detail and review detail. The entity-relationship model is shown in Figure 1 to help understand how the data interrelate with each other. [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
