@@ -119,9 +119,9 @@ understand how the data interrelate with each other.
 
   olist_geolocation_dataset      It contains geographical information related
                                  to both the sellers and customers.
+                                 
   ---------------------------------------------------------------------------
 
-Table 1: Descriptions of the tables
 
 # Storyline and choice of visualization
 
