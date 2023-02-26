@@ -23,7 +23,7 @@ I am presented a dashboard that summarizes the overall satisfaction of the custo
 
 1.5	Dataset 
 <div align="justify">I am going to make use of the dataset that was so generously provided by Olist, which is the largest department store in Brazilian marketplaces. Olist eliminates administrative burdens and consolidates legal obligations by linking small enterprises located anywhere in Brazil to various distribution channels. These retailers are allowed to sell their wares through the Olist Store and have Olist's logistics partners transport the products straight to the buyers after the sale has been completed.</div>
-<div align="justify">The data consist of almost 100 000 customer id and order id. To summarize, the data consist of order detail, customer detail, product detail, seller detail, payment detail, geolocation detail and review detail. The entity-relationship model is shown in Figure 1 to help understand how the data interrelate with each other.  kaggle.com/datasets/olistbr/brazilian-ecommerce  </div>
+<div align="justify">The data consist of almost 100 000 customer id and order id. To summarize, the data consist of order detail, customer detail, product detail, seller detail, payment detail, geolocation detail and review detail. The entity-relationship model is shown in Figure 1 to help understand how the data interrelate with each other.  https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce </div>
 
 
 
