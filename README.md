@@ -164,7 +164,7 @@ V.  Visualize the company's customers' demographics, sales trend, orders
 
 ## Data model
 
-![](media/image3.png){width="5.709027777777778in"
+![2](https://user-images.githubusercontent.com/126220185/221439638-d6a8a3e3-02f6-4f0e-8bc9-344a21846486.png){width="5.709027777777778in"
 height="3.3159722222222223in"}Once I have downloaded the dataset from
 Kaggle, it is possible to load it into Power BI. The data will have to
 be pre-processed in order to obtain relevant analytics as it only has
