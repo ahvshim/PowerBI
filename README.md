@@ -163,14 +163,14 @@ V.  Visualize the company's customers' demographics, sales trend, orders
 
 ## Data model
 
-![2](https://user-images.githubusercontent.com/126220185/221439638-d6a8a3e3-02f6-4f0e-8bc9-344a21846486.png){width="5.709027777777778in"
-height="3.3159722222222223in"}Once I have downloaded the dataset from
+Once I have downloaded the dataset from
 Kaggle, it is possible to load it into Power BI. The data will have to
 be pre-processed in order to obtain relevant analytics as it only has
 the tables and keys referring to each file of the dataset. At first we
 obtain the data model visible in the following image.
 
-Figure 2: Model Before
+![2](https://user-images.githubusercontent.com/126220185/221439638-d6a8a3e3-02f6-4f0e-8bc9-344a21846486.png){width="5.709027777777778in"
+
 
 Thus, it needs to make links between tables depending on how they
 interact with each other. The olist_geolocation and product_category
@@ -183,158 +183,31 @@ about transportation logistics, customers, sellers and their different
 products each with a different type. In the end, we can see the result
 on the following image.
 
-![](media/image4.png){width="5.709027777777778in"
-height="3.0104166666666665in"}Figure 3: Model After
 
-## Table analysis
+![3](https://user-images.githubusercontent.com/126220185/221441944-c258dffe-c8d3-4511-8763-4d297ed9ad52.png)
 
-I will dive into some of these tables that were added, I have renamed
-them to make it easier catch and this will obtain as the final data
-model that allows us to make analytics.
 
-I.  Orders Table is at the center of the data model. It represents the
-    most important part of the dataset describing best what can be
-    obtained from the data. Thus, in this case, it about the orders made
-    by a customer buying a specific product. This table contains only
-    primary keys that are necessary to infer knowledge about the data. I
-    have created two columns in this table namely "% of sales" to divide
-    the price of the total price and shows a percentage as a profit
-    ratio, and "qt ordered" where this counts the unique orders.
+![Screenshot 2023-02-27 060849](https://user-images.githubusercontent.com/126220185/221441738-c9dd017d-6c87-4e0a-8989-0bd6afc81cfa.jpg)
 
-II. The geolocation table is the Space table represented by geolocation
-    that is now connected to the data model in order to use the
-    information it contains for the two other tables: olist_customer and
-    olist_seller. Indeed, with the olist_geolocation table, we are able
-    to create secondary keys about customers and sellers to obtain
-    knowledge about their postal code, city or state that were
-    previously impossible to understand. Moreover, we created a
-    hierarchy in order to go from the country and drill down to the
-    state then the city.
 
-III. Orders date have a precise temporality about the data time. Thanks
-     to this table it is possible to make knowledge about temporal data
-     by classifying it chronologically. Thus, in the orders_date table,
-     we are able to tell the difference in days between the orders that
-     allow to group them by day date and obtain indicators such as the
-     deliveries or the purchases. With this, it is again possible to
-     drill down from the year to the quarter, the month and the day. I
-     have created "delivery_days" column which calculate the difference
-     between estimated date and delivered date in days, and delivery
-     indicator to indicates whether it was delivered before estimated
-     date or after. I've also created time_day and time_hour to
-     differentiate the time between approved, delivered and orders in
-     days and hours respectively for special visual I have created.
+![4](https://user-images.githubusercontent.com/126220185/221440279-1fe80e15-8356-4d70-aa38-c849e8218412.png)
 
-IV. In review table the idea was to create relevant indicators that
-    could be analyzed to obtain insights about the products. Thus, I
-    have created the review_indicator that tells if a comment has been
-    made after a purchase or not. It will give us knowledge on how the
-    customers liked the product or not and if they want to share it to
-    others. Then, the review_sorting indicator sorts the reviews
-    according to the recurrent keywords. It will be possible to know
-    what can describe best the products when customers have similar
-    opinions.
 
-V.  Brazil state table shows the state ID and name and modeled in a
-    relationship one-to-many to both sellers and customers tables.
+![5](https://user-images.githubusercontent.com/126220185/221440325-37fea219-b60a-43eb-8575-f2ee74ccf524.png)
 
-## ![](media/image5.png){width="5.709027777777778in" height="3.23125in"}Dashboard
 
-> Figure 4: Executive Insights by Decisive Data
+![6](https://user-images.githubusercontent.com/126220185/221440330-2658c99b-9669-4081-a623-75e1581b089c.png)
 
-Often asking, "How are we performing?" can be a question that cascades
-into a series of further questions, spinoffs and investigative research.
-This is especially true for globally minded companies. I wanted to
-create a report that pre-emptively addressed this kind of exploration.
-This report is meant to provide data-driven decision making, while
-emphasizing user-flexibility and visual analysis. Thus, this dashboard
-can scale as the needs of the global business changes.
 
-The executive Insights page shows that this dashboard is heavily focused
-on sales and customers, as to fulfil the objective and to achieve
-customer's satisfaction and increase sales by discovering insights from
-the dashboard.
+![7](https://user-images.githubusercontent.com/126220185/221440336-8630de19-ac6a-4629-8e92-598a62c1de08.png)
 
-By looking at Figure again. We can conclude that Sao Paulo has the
-highest sales in all time. Although sales have increased rapidly last
-three years, the waterfall graph doesn't show a decrease values.
 
-We can also see that there are a lot of late deliveries as well as
-earlier deliveries.
+![8](https://user-images.githubusercontent.com/126220185/221440338-7601d572-f040-45bf-b065-88af58043571.png)
 
-![](media/image6.png){width="5.709027777777778in"
-height="3.2368055555555557in"}Figure 5: Descriptive Analytics
 
-Next, lets dive deeper into descriptive analytics, we have multiple
-options we can make use of, for instance to choose a specific day, month
-or year from the slicer at the top of the page.
+![9](https://user-images.githubusercontent.com/126220185/221440340-1292f5b9-c1e3-477d-8509-02e2f5d3a9d1.png)
 
-The table graph is distributing the product category by the features of
-their average price, sum of price which is revenue and its ratio, and
-lastly the number of quantities customer's ordered the specific
-category. The wining category is health beauty which has been ordered
-the most, no wonder as females known to spend more on fashion. It shows
-\$772,238 revenue with a profit ratio 6%
-
-The descriptive analysis page shows that we have approximately 16M
-sales, 94k customers and more than 100k orders.
-
-![](media/image7.png){width="5.709027777777778in"
-height="3.2368055555555557in"}Figure 6: Customer Investigation
-
-Ever wondered how many customers join our business recently. As
-customers are our power, with them we can increase revenue and without
-them we can't maintain growth. This is why customers inveistigation is
-quite important. And this page a illustrate that among nearly 100k
-customers.
-
-By looking at the Figure again, we can notice that most of new customers
-join between May and August throught the three years. The preffered
-payments methods are by credit-card and boleto paymen.
-
-The top three customers spent more than 21 quantities with approximetly
-four thousands dollars.
-
-Monday's has the highest order quantities while Sunday's has the highest
-average price spent. It's quite logical because people tend to spend on
-weekends.
-
-![](media/image8.png){width="5.709027777777778in"
-height="3.1805555555555554in"}Figure 7: Customer Satisfaction
-
-By looking at the charts we can simplify that the overall average rating
-looks pretty good showing 4 star from approximately 99.5k customers.
-While the number of quantity has decreased in December after a slight
-increase three-months before.
-
-![](media/image9.png){width="5.709027777777778in"
-height="3.2270833333333333in"}The top five selling categories has
-approximately 40k orders out of 99k, while the bottom 5 categories
-didn't exceed 60 orders.
-
-Figure 8: Delivery Days
-
-The delivery page illustrates the processing of delivers from seller's
-location to customer's desire location, the freights value looks
-acceptable, there were 96.4 orders delivered out of cancelled orders.
-
-![](media/image10.png){width="5.709027777777778in"
-height="3.2368055555555557in"}We can notice that average review score is
-not high at the first quarter, because it took more days to deliver, as
-opposite in the third quarter higher review for few days. And order
-delivery days are slightly higher in weekends
-
-Figure 9: Forecast
-
-What's our annual growth the upcoming years I the question you are
-looking for, anyway, the annual growth looks great as the orders
-quantities showed the highest orders quantities score in all three
-years, as well as new customer prediction showed incensements.
-
-Note that this forecast as in the overall states and time, but it may
-change regularly.
-
-# INSIGHTS
+# Insights
 
 Olist has a delivery success rate of approximately 85%. This may
 indicate that the company is facing some challenges with its delivery
@@ -380,13 +253,13 @@ suggests that this type of product may need improvement.
 
 # Suggestions:
 
--   Special offerings to boost overall sales on low sales period
+-   Special offerings to boost overall sales on low sales period 
 
--   Improve low sales category
+-   Improve bottom selling categories by providing advertisements or promotions
 
--   Outsourcing drivers for delivery during Sales or Festival period
+-   Outsourcing drivers for delivery during Sales or Festival periods
 
--   Investigate and Review the partner company with low review score and
+-   Investigate and Review the partner company with low review score
 
--   analysis customer's comment's provided in the dataset with NLP or
+-   analysis customers comments and reviews provided in the dataset with NLP or
     any kind of language processing models
