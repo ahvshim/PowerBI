@@ -86,7 +86,7 @@ understand how the data interrelate with each other.
 
 ![fig 1](https://user-images.githubusercontent.com/126220185/221439446-fcbbe806-e0d4-46cd-a6f9-3d8b4b9c7df8.png)
 
-Figure 1 Entitiy-relationship model diagram of Olist Dataset
+
 
   ---------------------------------------------------------------------------
   **Table**                      **Description**
