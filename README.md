@@ -1,20 +1,3 @@
-#TABLE OF CONTENTS
-## 1.0 Executive Summary 
-### 1.1 Introduction 
-### 1.2 Business problem 
-### 1.3 Formulation of business problem 
-### 1.4 Organizational structure (Stakeholder) 
-### 1.5 Dataset 
-## 2.0 Storyline and choice of visualization 
-### 2.1 Objectives of data stories 
-## 3.0 Visualization Analytics 
-### 3.1 Data model 
-### 3.2 Table analysis 
-### 3.3 Dashboard 
-## 4.0 Insights 
-## 5.0 Recommendations
-## 6.0 Suggestions
-
 ## 1.0	Executive Summary
 <div align="justify">•	Data synopsis: Brazilian E-commerce Public Dataset: Retail datasets of 100k orders placed on Olist spanning between October’2016 and September’2018 across several states. Information is trickled with price, orders, order status, payment, freight and user review along with many other parameters.</div>
 
@@ -28,4 +11,15 @@
   The Olist store is an e-commerce business headquartered in Sao Paulo, Brazil. This firm acts as a single point of contact between various small businesses and the customers who wish to buy their products. Recently, they uploaded a dataset on Kaggle that contains information about 100k orders made at multiple marketplaces between 2016 to 2018. What we purchase on e-commerce websites is affected by the reviews which we read about the product posted on that website. This firm can certainly leverage these reviews to remove those products which consistently receive negative reviews. It could also advertise those items which are popular amongst the customers. 
 </div>
 
+### 1.3	Formulation of business problem
+<div align="justify">
+I am presented a dashboard that summarizes the overall satisfaction of the customer with the product which he or she had just purchased. As well as descriptive analysis and forecasting using Microsoft Power BI tool.
+</div>
+
+### 1.4	Organizational structure (Stakeholder)
+<div align="justify">
+Olist organizational structure data is layered. The CEO leads the company and is sometimes the chairman or owner. He has the most invested in the company and makes significant decisions, including as analyzing and approving team budgets and assuring subordinates can do their jobs well. 
+Second is the marketing team; whose role is to market the company's products using cutting-edge technology to compete commercially. The financial team helps the company manage its accounts, income before interest, taxes, depreciation, debt, loans, and cash according to the budget. This group will also provide clients conditional vouchers to increase sales or any marketing budget required to get this project up and running.
+Information technology (IT) team is responsible for overseeing every aspect of the company's system, including its hardware and software. This team supports all other teams inside the organization. The e-commerce team, which comes in at number seven, is crucial to the online sales process. Customers will be dealt with personally by these personnel, who will also guarantee their happiness with every transaction There is more department that exist in this company however for our issue and project, these are the most impacted and involved in the project.
+</div>
 
