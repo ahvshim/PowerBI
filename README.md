@@ -24,10 +24,11 @@ required to leverage the power of artificial intelligence.
 ## **Business problem**
 
 <div align="justify">
-    The Olist store is an e-commerce business headquartered in Sao Paulo,
+    The [Olist](www.olist.com/pt-br) store is an e-commerce business headquartered in Sao Paulo,
 Brazil. This firm acts as a single point of contact between various
 small businesses and the customers who wish to buy their products.
-Recently, they uploaded a [dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) that
+Recently, they uploaded a [dataset 
+on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) that
 contains information about 100k orders made at multiple marketplaces
 between 2016 to 2018. What we purchase on e-commerce websites is
 affected by the reviews which we read about the product posted on that
