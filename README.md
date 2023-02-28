@@ -23,10 +23,10 @@ required to leverage the power of artificial intelligence.
 
 ## **Business problem**
 <p align="justify">
-The <a href="https://www.olist.com/pt-br">Olist store</a> is an e-commerce business headquartered in Sao Paulo,
+The <a href="https://www.olist.com/pt-br" target="_blank">Olist store</a> is an e-commerce business headquartered in Sao Paulo,
 Brazil. This firm acts as a single point of contact between various
 small businesses and the customers who wish to buy their products.
-Recently, they uploaded a <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce">dataset on Kaggle</a> that
+Recently, they uploaded a <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce" target="_blank">dataset on Kaggle</a> that
 contains information about 100k orders made at multiple marketplaces
 between 2016 to 2018. What we purchase on e-commerce websites is
 affected by the reviews which we read about the product posted on that
@@ -95,7 +95,7 @@ summarize, the data consist of order detail, customer detail, product
 detail, seller detail, payment detail, geolocation detail and review
 detail. The entity-relationship model is shown in Figure 1 to help
 understand how the data interrelate with each other.
-<a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Kaggle</a>
+<a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce" target="_blank">Kaggle</a>
 </p>
   
   
