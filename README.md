@@ -22,8 +22,7 @@ required to leverage the power of artificial intelligence.
     </div>
 
 ## **Business problem**
-<p align="justify">
-The <a href="https://www.olist.com/pt-br" target= "_blank" >Olist store</a> is an e-commerce business headquartered in Sao Paulo,
+<p align="justify">The [Olist store](https://www.olist.com/pt-br){:target="_blank"} is an e-commerce business headquartered in Sao Paulo,
 Brazil. This firm acts as a single point of contact between various
 small businesses and the customers who wish to buy their products.
 Recently, they uploaded a <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce" target="_blank">dataset on Kaggle</a> that
