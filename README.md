@@ -22,7 +22,7 @@ required to leverage the power of artificial intelligence.
     </div>
 
 ## **Business problem**
-
+ The [Olist](www.olist.com/pt-br) store
 <div align="justify">
     The [Olist](www.olist.com/pt-br) store is an e-commerce business headquartered in Sao Paulo,
 Brazil. This firm acts as a single point of contact between various
