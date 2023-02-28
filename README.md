@@ -22,9 +22,8 @@ required to leverage the power of artificial intelligence.
     </div>
 
 ## **Business problem**
- The [Olist](www.olist.com/pt-br) store
-<div align="justify">
-    The [Olist](www.olist.com/pt-br) store is an e-commerce business headquartered in Sao Paulo,
+
+The [Olist store](www.olist.com/pt-br) is an e-commerce business headquartered in Sao Paulo,
 Brazil. This firm acts as a single point of contact between various
 small businesses and the customers who wish to buy their products.
 Recently, they uploaded a [dataset 
@@ -35,7 +34,7 @@ affected by the reviews which we read about the product posted on that
 website. This firm can certainly leverage these reviews to remove those
 products which consistently receive negative reviews. It could also
 advertise those items which are popular amongst the customers.
-    </div>
+
 
 ## **Formulation of business problem**
 
